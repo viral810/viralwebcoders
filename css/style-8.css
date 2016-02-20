@@ -1,0 +1,124 @@
+/*
+Notes:
+    Color1: #6200ea;
+*/
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+.tags li a { color: #323133; }
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+.btn-nesto:hover,
+.stop-video:hover,
+.play-video:hover {
+    color: #ffffff;
+}
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+a,
+.digit,
+.stop-video,
+.play-video,
+.form-message,
+.pager li > span,
+.nav > li > a:hover,
+.nav > li > a:focus,
+.submenu ul li a:hover,
+.navbar-nav > li.active a,
+.section-list ul li:before,
+.skill-box .skill-value span,
+.skill-box .skill-value:after,
+.feature-box-style-3 .feature-number,
+.pricing-table .table-feature ul li:before {
+    color: #6200ea;
+}
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+.feature-box-style-3 .feature-number { opacity: 0.5; }
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+.post-image,
+.tags li a:after,
+.btn-nesto:after,
+.post-title:after,
+.stop-video:after,
+.play-video:after,
+.blog-title:after,
+.client-name:after,
+.btn-nesto-o:after,
+.widget-title:after,
+.pager li > a:after,
+.section-title:after,
+.breadcrumb > li a:after,
+.team-box .member-social,
+.nav > li > a:hover:after,
+.nav > li > a:focus:after,
+.short-section-title:after,
+.team-box .member-name:after,
+.skill-box .skill-title:after,
+div.slide-item .portfolio-info,
+.number-box .box-numbers:after,
+.navbar-nav > li.active a:after,
+.pricing-table .table-title:after,
+.pricing-table .table-price:after,
+.skill-box .skill-value span:before,
+.pricing-table .table-button a:after,
+.feature-box-style-1 .feature-icon:after,
+.feature-box-style-2 .feature-icon:after,
+.feature-box-style-3 .feature-icon:after,
+.feature-box-style-2 .feature-title:after,
+.feature-box-style-3 .feature-title:after,
+#owl-testimonials-wrapper .owl-page:hover span,
+#owl-testimonials-wrapper .owl-page.active span {
+    background-color: #6200ea;
+}
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------- */
+.btn-nesto,
+.post-meta,
+.tags li a,
+.stop-video,
+.play-video,
+.post-image,
+.client-img,
+.btn-nesto-o,
+.pager li > a,
+.btn.btn-nesto,
+.pricing-table,
+.btn.btn-nesto-o,
+.pager li > span,
+#name.form-error,
+#email.form-error,
+.breadcrumb > li a,
+.btn-nesto-o:hover,
+#subject.form-error,
+#message.form-error,
+.comments .avatar-image,
+.team-box .member-header,
+.pricing-table .table-price,
+.pricing-table .table-button,
+#contactform .form-control:hover,
+#contactform .form-control:focus,
+.post-replay .form-control:hover,
+.post-replay .form-control:focus,
+.feature-box-style-1 .feature-icon,
+.feature-box-style-2 .feature-icon,
+.feature-box-style-3 .feature-icon,
+.search-widget .form-control:hover,
+.search-widget .form-control:focus,
+#newsletter-form .form-control:hover,
+#newsletter-form .form-control:focus,
+#owl-testimonials-wrapper .owl-page span,
+.feature-box-style-1:hover .feature-icon,
+.feature-box-style-2:hover .feature-icon,
+.feature-box-style-3:hover .feature-icon {
+    -webkit-border-color: #6200ea;
+       -moz-border-color: #6200ea;
+         -o-border-color: #6200ea;
+            border-color: #6200ea;
+}
